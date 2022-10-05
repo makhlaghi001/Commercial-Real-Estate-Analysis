@@ -1,11 +1,11 @@
 
-<img src="https://media.istockphoto.com/photos/futuristic-skyscrapers-at-dusk-picture-id1181546520?k=20&m=1181546520&s=612x612&w=0&h=uDYKdiBzkwL9KOgGelr52wqJJaBd4kJM2GVEqJQIlVw=" width="200" height="60">
+<img src="https://media.istockphoto.com/photos/futuristic-skyscrapers-at-dusk-picture-id1181546520?k=20&m=1181546520&s=612x612&w=0&h=uDYKdiBzkwL9KOgGelr52wqJJaBd4kJM2GVEqJQIlVw=" width="600" height="400">
 
-####Canadian Commercial Real Estate sale and investment analysis 
+##Canadian Commercial Real Estate sale and investment analysis 
 
-#####Growth of office- CRE from investment/sale 2012-2022
+#Growth of office- CRE from investment/sale 2012-2022
 
-#####Rent market per sqf and rent market growth 2012-2022
+#Rent market per sqf and rent market growth 2012-2022
 
 1. Inventory 2012-2022 
     - Existing
