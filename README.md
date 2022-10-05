@@ -1,105 +1,78 @@
 
 <img src="https://media.istockphoto.com/photos/futuristic-skyscrapers-at-dusk-picture-id1181546520?k=20&m=1181546520&s=612x612&w=0&h=uDYKdiBzkwL9KOgGelr52wqJJaBd4kJM2GVEqJQIlVw=" width="600" height="400">
 
-# Canadian Commercial Real Estate sale and investment analysis 
 
-## Growth of office- CRE from investment/sale 2012-2022
+## Project Proposal 
 
-## Rent market per sqf and rent market growth 2012-2022
+Our team has chosen to work on financial analysis model, focusing on 
+commercial real estate market, particularly Office Buildings. Our main areas 
+of focus will include the golden horseshoe area in Ontario. The region and 
+cities that we will be comparing are as follows:
+- Toronto 
+- Mississauga 
+- Oakville 
+- Hamilton 
+- Vaughn 
+- Brampton 
 
-1. Inventory 2012-2022 
+Our analysis will generate historical and current data comparison, so that we 
+can have a much better understanding and to identify the growth trends 
+within the market, and as well as which KPI (Key Performance Indicators) 
+have substantial role in those trends. To analyze the growth in further depth,
+we will provide visualization on all Key Performance Indicators which 
+constitutes the market analysis. 
+
+In addition to understand the patterns and volatility of the CRE office building
+market, we will directly compare the office real estate sales/investment 
+market to Canadian annual interest rates, from 2012-2022. Thus, providing 
+us with a correlation model, which can represent, if a direct correlation exists
+between the two. 
+
+Lastly, we will provide an analysis, to show weather or not there is a 
+correlation between the annual interest rate, REIT stocks, property 
+sales/investment and new development. 
+
+As for some of the questions that we will be asking from our analysis will be:
+- Identify the max and min in office building sales within the last 10 
+years 
+- Identify and visualize the inventory of office buildings with the 
+following, as well as what years we saw increase and decrease in 
+inventory:
     - Existing
+    - Under construction
     - Construction starts 
-    - Under construction 
-    - Deliveries and Demolitions
+    - Demolitions and deliverables 
+-Identify Vacancy rates and occupancy rates, through the ten years. 
+Has it been consistent or not? In what years did the market experience
+a downturn and up turn. 
+- Identify and visualize sales volume by location, types of transactions, 
+types of buyers and sellers, who are the big players and what 
+percentage of the market they occupy? Has this been consistent 
+through out the 10 years?
+- Identify and calculate interest rates for the past 10 years. Is there a 
+relationship between interest rate and sales volume? If so, provide 
+examples within the data (annual sales, year, and the driving force)
+- Identify three major Canadian REITs, visualize their ten-year stock 
+growth, to find out if there are any correlation exists between REIT 
+stock growth and CRE market. 
+- Identify and showcase the net absorption for each city? Has the 
+demand increased or decreased over the years? 
+- Which cities have experience strong growth in inventory, sales volume,
+rental market increase, occupancy rate, new construction and under 
+construction?
+- Which cities have seen a decline, if any?
+- What are some of the driving factors of the growth in each city?
+- Identify the down turns and up turn in each market and specify the 
+driving force for such results. 
+- From all the cities/markets mentioned identify three in whichever order
+that you will recommend to your clients for investment.  
+- What are the property's area’s major economic drivers? Who are the 
+major tenants or corporations? What is the average rate of return on 
+investment (and is that trending upward or downward)?
 
-2. Occupancy rate and vacancy rate(direct vs sublet) 2012-2022
 
-3. SQF available vs vacancy 
-
-4. Net income (if we can get the data)
-
-5. Net absorption (In basic terms the net change in tenant demand. 
-Amount of occupied space at end of a given period less the amount of 
-the occupied space at the beginning of the same period) ***This is a 
-crucial as it calculates and shows the supply and demand in 
-commercial real estate market.
-
-6. Cap rate and cap rate by transaction type
-    - Individual  
-    - Condo 
-
-7. Top Sellers and Top buyers 2012-2022
-
-8. Top Buyer Broker and Top seller broker 
-
-9. Sales Volume By Transaction Type
-
-10. Leasing activity 
-
-11. Months on Market 
-
-12. Months to lease 
-
-13. Sales volume
-
-14. Sale volume by transaction type
-    - Individual 
-    - Portfolio sales 
-    - Condo sales 
-    - Entity sales 
-
-15. Sale price by location type 
-
-16. Sale price per sqf and cap rate by location type
-    - Commercial Business District
-    - Urban 
-    - Suburban 
-
-17. Asset value by owner type
-a. User 
-b. Private 
-c. Private equity 
-d. Reit public 
-e. Institutional 
- 
-18. Sales by owner type 
-    - User 
-    - Private 
-    - Private equity 
-    - REIT public 
-    - Institutional 
-
-19. Sales by seller type 
-
-20. Sales volume by buyer type 
-
-21. Sales volume by seller type 
-
-22. Net buying and selling by owner type 
-
-23. Asset value by owner origin
-    - National 
-    - Local 
-    - Foreign
-
-24. Sales volume by buyer origin 
-    - National 
-    - Local 
-    - Foreign
-
-25. Sales volume by seller origin 
-    - National 
-    - Local 
-    - Foreign
-
-26. Avg price per sqf by buyer origin 
-    - National 
-    - Local 
-    - Foreign
-
-27. Avg Cap rate by buyer origin 
-    - National 
-    - Local 
-    - Foreign
- 
+For our project, we will obtain some of our data regarding the commercial 
+real estate market from COSTAR.com. We will obtain our historical annual 
+interest rate from 2012-2022 via bank of Canada. As per the data regarding 
+stock on REITS, we will generate a 10-year data stock history for particular 
+REITS from reitreport.ca. 
