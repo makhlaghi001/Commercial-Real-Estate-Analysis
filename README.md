@@ -4,7 +4,7 @@
 
 ## Project Proposal 
 
-Our team has chosen to work on financial analysis model, focusing on 
+Our team has chosen to work on a financial analysis model, focusing on the 
 commercial real estate market, particularly Office Buildings. Our main areas 
 of focus will include the golden horseshoe area in Ontario. The region and 
 cities that we will be comparing are as follows:
