@@ -1,0 +1,192 @@
+﻿Property Address,Property City,Property Province,Property Type,Building SF,Star Rating,Sale Price,Price Per SF,Sale Date,Sale Status,Asking Price,Actual Cap Rate,Pro Forma Cap Rate,Buyer (True) Origin,Seller (True) Origin,Listing Broker Company,Building Class,Year Built,Land Area AC,Land Area SF,Number Of Floors,Zoning,Submarket Name,Location Type,Property Postal Code,Property Region,Country
+20 Ripley Ave,Toronto,ON,Office,"6,051",2 Star,"$7,000,000","1,156.83",2022-09-29,Sold,,,,Local,,,C,1990,0.25,10958,1,EL,West Toronto,Suburban,M6S 3N9,Toronto,Canada
+72 Berkeley St,Toronto,ON,Office,"3,100",2 Star,"$2,500,000",806.45,2022-09-29,Sold,,,,Local,Local,,C,1925,,,3,CRE,Downtown East,CBD,M5A 2W7,Toronto,Canada
+74 Berkeley St,Toronto,ON,Office,"2,200",3 Star,"$2,150,000",977.27,2022-09-29,Sold,,,,Local,Local,,C,1925,0.03,1307,4,CRE,Downtown East,CBD,M5A 2W7,Toronto,Canada
+76 Berkeley St,Toronto,ON,Office,"1,233",2 Star,"$1,800,000","1,459.85",2022-09-29,Sold,,,,Local,Local,Cushman & Wakefield,C,1925,0.03,1277,2,CRE,Downtown East,CBD,M5A 2W7,Toronto,Canada
+1275 Finch Ave W (Part of Multi-Condo Sale),Toronto,ON,Office,"1,507",4 Star,,,2022-09-29,Sold,,,,National,Local,Cubecom Commercial Realty Inc.,B,2018,,,8,EL,North Toronto,Suburban,M3J 2B1,Toronto,Canada
+1275 Finch Ave W (Part of Multi-Condo Sale),Toronto,ON,Office,"3,302",4 Star,,,2022-09-29,Sold,,,,National,Local,Cubecom Commercial Realty Inc.,B,2018,,,8,EL,North Toronto,Suburban,M3J 2B1,Toronto,Canada
+664-666 Mt Pleasant Rd,Toronto,ON,Office,,2 Star,"$2,150,000",,2022-09-28,Sold,,,,National,,,C,,0.06,2776,2,CR,Midtown,Urban,M4S 2N3,Toronto,Canada
+7 St. Thomas St,Toronto,ON,Office,"1,189",4 Star,"$2,750,000","2,312.87",2022-09-27,Sold,,,,National,Local,,A,2017,0.38,16553,9,CR,Midtown,Urban,M5S 1K5,Toronto,Canada
+1391 Bayview Ave,Toronto,ON,Office,"4,932",2 Star,"$5,000,000","1,013.79",2022-09-26,Sold,,,,,,,C,1955,0.31,13367,2,CR,East Toronto,Suburban,M4G 3A6,Toronto,Canada
+105 Moatfield Dr (Part of Portfolio),Toronto,ON,Office,"248,981",4 Star,"$61,830,533",248.33,2022-09-23,Sold,,,,Local,Local,,B,1982,6.56,285754,11,64.20-A (172) RM6(198),East Toronto,Suburban,M3B 0A2,Toronto,Canada
+95 Moatfield Dr (Part of Portfolio),Toronto,ON,Office,"156,426",3 Star,"$35,188,151",224.95,2022-09-23,Sold,,,,Local,Local,,B,1982,6.56,285754,5,64.20-A (172) RM6(198),East Toronto,Suburban,M3B 3L6,Toronto,Canada
+686 Richmond St W,Toronto,ON,Office,"4,500",2 Star,"$3,550,000",788.89,2022-09-23,Sold,,,,,,,C,1947,0.05,2114,3,EL,King/Dufferin,CBD,M6J 2H5,Toronto,Canada
+220 Duncan Mill Rd (Part of Multi-Condo Sale),Toronto,ON,Office,"2,071",3 Star,,,2022-09-16,Sold,,,,Local,,,B,1981,,,6,CR,East Toronto,Suburban,M3B 3J5,Toronto,Canada
+220 Duncan Mill Rd (Part of Multi-Condo Sale),Toronto,ON,Office,"2,071",3 Star,,,2022-09-16,Sold,,,,Local,,,B,1981,,,6,CR,East Toronto,Suburban,M3B 3J5,Toronto,Canada
+220 Duncan Mill Rd (Part of Multi-Condo Sale),Toronto,ON,Office,"2,071",3 Star,,,2022-09-16,Sold,,,,Local,,,B,1981,,,6,CR,East Toronto,Suburban,M3B 3J5,Toronto,Canada
+220 Duncan Mill Rd (Part of Multi-Condo Sale),Toronto,ON,Office,"2,071",3 Star,,,2022-09-16,Sold,,,,Local,,,B,1981,,,6,CR,East Toronto,Suburban,M3B 3J5,Toronto,Canada
+220 Duncan Mill Rd (Part of Multi-Condo Sale),Toronto,ON,Office,"2,071",3 Star,,,2022-09-16,Sold,,,,Local,,,B,1981,,,6,CR,East Toronto,Suburban,M3B 3J5,Toronto,Canada
+220 Duncan Mill Rd (Part of Multi-Condo Sale),Toronto,ON,Office,"2,071",3 Star,,,2022-09-16,Sold,,,,Local,,,B,1981,,,6,CR,East Toronto,Suburban,M3B 3J5,Toronto,Canada
+220 Duncan Mill Rd (Part of Multi-Condo Sale),Toronto,ON,Office,"2,071",3 Star,,,2022-09-16,Sold,,,,Local,,,B,1981,,,6,CR,East Toronto,Suburban,M3B 3J5,Toronto,Canada
+115 Berkeley St,Toronto,ON,Office,"3,735",3 Star,"$5,000,000","1,338.69",2022-09-09,Sold,,,,Local,Local,,B,1885,0.09,3920,3,CR SS1,Downtown East,CBD,M5A 2W8,Toronto,Canada
+20 Upjohn Rd,Toronto,ON,Office,"19,322",3 Star,"$13,800,000",714.21,2022-09-02,Sold,,,,Local,Local,CBRE,B,1954,1.96,85378,1,EO,East Toronto,Suburban,M3B 2V9,Toronto,Canada
+100 Wynford Dr (Part of Portfolio),Toronto,ON,Office,"444,898",3 Star,"$125,001,400",280.97,2022-09-01,Sold,,6.90,,Foreign,Local,,C,1968,11.76,512266,6,,East Toronto,Suburban,M3C 1K4,Toronto,Canada
+4125 Lawrence Ave,Toronto,ON,Office,"42,665",2 Star,"$3,975,000",93.17,2022-08-31,Sold,"4,500,000",,,,,Sincere Realty Inc,B,1981,0.84,36448,2,CR,Scarborough,Suburban,M1E 2S2,Toronto,Canada
+82 Berkeley St,Toronto,ON,Office,"5,000",2 Star,"$6,100,000","1,220.00",2022-08-30,Sold,,,,Local,Local,,C,1964,0.08,3485,2,CR SS1 (x339),Downtown East,CBD,M5A 2W7,Toronto,Canada
+1033 Bay St (Part of Multi-Condo Sale),Toronto,ON,Office,656,3 Star,,,2022-08-30,Sold,,,,Local,Local,,C,1987,,,3,CR,Midtown,Urban,M5S 3A5,Toronto,Canada
+1033 Bay St (Part of Multi-Condo Sale),Toronto,ON,Office,825,3 Star,,,2022-08-30,Sold,,,,Local,Local,,C,1987,,,3,CR,Midtown,Urban,M5S 3A5,Toronto,Canada
+333 Bering Ave,Toronto,ON,Office,"1,971",3 Star,"$1,225,000",621.51,2022-08-29,Sold,,,,National,Local,CPM Realty Corporation,B,2012,0.29,12589,3,E 1.0,427 Corridor,Urban,M8Z 3A8,Toronto,Canada
+110 Eglinton Ave E,Toronto,ON,Office,"89,370",3 Star,"$41,000,000",458.77,2022-08-26,Sold,,,,Local,Foreign,,B,1980,0.50,21780,7,CR-5,Midtown,Urban,M4P 1A6,Toronto,Canada
+10 Beamish Dr,Toronto,ON,Office,"1,489",1 Star,"$6,000,000","4,029.55",2022-08-22,Sold,,,,Local,Local,,C,1960,0.13,5850,2,CR,427 Corridor,Urban,M9B 3P3,Toronto,Canada
+2-20 Finch Ave W,Toronto,ON,Office,"1,873",2 Star,"$1,570,000",838.23,2022-08-22,Sold,,,,Local,National,,C,1987,1.14,49623,3,CR,North Toronto,Suburban,M2N 6L1,Toronto,Canada
+1159 Dundas St E,Toronto,ON,Office,"1,500",2 Star,"$1,300,000",866.67,2022-08-18,Sold,,,,National,,,B,1999,2.08,90590,2,CD,East Toronto,Suburban,M4M 3N9,Toronto,Canada
+100 Lombard St,Toronto,ON,Office,"37,425",2 Star,"$26,000,000",694.72,2022-08-16,Sold,,,,Local,Local,,B,1900,0.29,12632,5,CR,Downtown East,CBD,M5C 1M3,Toronto,Canada
+2 Tippett Rd,Toronto,ON,Office,"38,878",3 Star,"$18,500,000",475.85,2022-08-16,Sold,,,,Local,Local,,C,1979,0.93,40584,4,EL,North Toronto,Suburban,M3H 2V2,Toronto,Canada
+1234 Bayview Ave,Toronto,ON,Office,"2,598",2 Star,"$3,150,000","1,212.47",2022-08-12,Sold,,,,,,,C,1890,0.13,5628,2,O,Midtown,Urban,M4G 2Z8,Toronto,Canada
+5040 Dundas St W,Toronto,ON,Office,"2,696",2 Star,"$4,750,000","1,761.87",2022-08-08,Sold,,,,Local,,,B,1976,0.14,6248,2,CR,427 Corridor,Urban,M9A 1B8,Toronto,Canada
+191 Niagara St,Toronto,ON,Office,"10,041",2 Star,"$8,800,000",876.41,2022-07-29,Sold,,,,Local,Local,,C,1952,0.12,5227,2,R,King/Dufferin,CBD,M5V 1G8,Toronto,Canada
+2660 Kennedy Rd,Toronto,ON,Office,"14,758",3 Star,"$1,700,000",115.19,2022-07-29,Sold,,,,National,National,,B,2008,0.34,14758,2,AG,Scarborough,Suburban,M1T 3H7,Toronto,Canada
+595 Eglinton Av E (Part of Portfolio),Toronto,ON,Office,838,1 Star,,,2022-07-29,Sold,,,,Local,Local,,C,1944,0.03,1133,2,R,Midtown,Urban,M4P 1P8,Toronto,Canada
+593 Eglinton Ave E (Part of Portfolio),Toronto,ON,Office,"1,771",2 Star,,,2022-07-29,Sold,,,,Local,Local,,C,1944,0.06,2570,2,R,Midtown,Urban,M4P 1P8,Toronto,Canada
+589-591 Eglinton Ave E (Part of Portfolio),Toronto,ON,Office,"1,871",2 Star,,,2022-07-29,Sold,,,,Local,Local,,C,1944,0.12,5097,2,R,Midtown,Urban,M4P 1P8,Toronto,Canada
+1748 Bayview Ave (Part of Portfolio),Toronto,ON,Office,811,3 Star,,,2022-07-29,Sold,,,,Local,Local,,B,1942,0.09,3877,1,R (d1.0),Midtown,Urban,M4G 3C4,Toronto,Canada
+1746 Bayview Ave (Part of Portfolio),Toronto,ON,Office,811,2 Star,,,2022-07-29,Sold,,,,Local,Local,,C,1942,0.08,3572,1,R (d1.0),Midtown,Urban,M4G 3C4,Toronto,Canada
+55 Sudbury St,Toronto,ON,Office,"6,768",2 Star,"$8,000,000","1,182.03",2022-07-20,Sold,,,,Local,National,,C,1884,0.26,11325,3,Regeneration Area,King/Dufferin,CBD,M6J 3S7,Toronto,Canada
+355 Adelaide St W (Part of Portfolio),Toronto,ON,Office,"28,000",3 Star,"$74,034,893","2,644.10",2022-07-08,Sold,,,,Local,Local,Colliers International,C,1922,0.17,7536,7,CRE,Downtown West,CBD,M5V 1S2,Toronto,Canada
+7 St. Thomas St,Toronto,ON,Office,"1,232",4 Star,"$2,150,000","1,745.13",2022-07-05,Sold,,,,National,,"Lennard Commercial Realty, Brokerage",A,2017,0.38,16553,9,CR,Midtown,Urban,M5S 1K5,Toronto,Canada
+7 St. Thomas St,Toronto,ON,Office,"1,525",4 Star,"$2,100,000","1,377.05",2022-06-30,Sold,,,,Local,,,A,2017,0.38,16553,9,CR,Midtown,Urban,M5S 1K5,Toronto,Canada
+7 St. Thomas St,Toronto,ON,Office,"1,171",4 Star,"$1,200,000","1,024.77",2022-06-28,Sold,,,,Local,,RE/MAX Realtron Realty Inc,A,2017,0.38,16553,9,CR,Midtown,Urban,M5S 1K5,Toronto,Canada
+715-717 Bloor St W,Toronto,ON,Office,"4,326",2 Star,"$4,200,000",970.87,2022-06-24,Sold,,,,Local,National,"Re/Max Ultimate Realty, Inc.",C,1909,0.04,1899,3,CR 2.5 (C1.0; R2.0) SS2 (,West Toronto,Suburban,M6G 1L5,Toronto,Canada
+4773 - 4789 Yonge St,Toronto,ON,Office,"1,107",5 Star,"$699,000",631.44,2022-06-09,Sold,"699,000",,,,Local,Golden House Realty Inc.,A,2014,,,11,CR-1,North Toronto,Suburban,M2N 0G3,Toronto,Canada
+10 Milner Business Ct,Toronto,ON,Office,"125,000",3 Star,"$19,000,000",152.00,2022-06-08,Sold,,,,Local,Local,Lennard Commercial Realty,B,1981,1.00,43726,10,E 0.7 (x181),Scarborough,Suburban,M1B 3C6,Toronto,Canada
+429 Kipling Ave (Part of Multi-Property Sale),Toronto,ON,Office,"6,840",2 Star,"$2,836,162",414.64,2022-06-08,Sold,,,,Local,Foreign,CBRE,C,1933,2.70,117612,2,E1,West Toronto,Suburban,M8Z 5C7,Toronto,Canada
+15 Wellesley St W,Toronto,ON,Office,459,4 Star,,,2022-06-07,Sold,"519,000",,,,,HomeLife Landmark Realty,A,2021,,,60,CR,Downtown North,CBD,M4Y 0G7,Toronto,Canada
+630 The East Mall,Toronto,ON,Office,"14,200",3 Star,"$40,000,000","2,816.90",2022-06-01,Sold,,,,Local,Local,Nucorp Realty Ltd,C,1964,2.06,89734,1,CL,427 Corridor,Urban,M6S 1N6,Toronto,Canada
+217 Queen St W,Toronto,ON,Office,"2,170",3 Star,"$1,700,000",783.41,2022-06-01,Sold,"1,660,050",,,Local,National,Colliers International,B,2019,0.22,9583,25,CR 3.0,Financial Core,CBD,M5V 0R2,Toronto,Canada
+155 George St,Toronto,ON,Office,"6,895",2 Star,"$5,365,000",778.10,2022-05-31,Sold,"5,500,000",,,Local,Local,Colliers International,C,1929,0.08,3485,2,CR 3.0,Downtown East,CBD,M5A 2M8,Toronto,Canada
+1 Vulcan St (Part of Portfolio),Toronto,ON,Office,"12,000",2 Star,"$12,097,380","1,008.12",2022-05-26,Sold,,,,Local,Local,Colliers,C,1976,1.81,78844,2,E,Airport Corp Centre/Airport,Suburban,M9W 1L3,Toronto,Canada
+490 Adelaide St W,Toronto,ON,Office,"14,152",2 Star,"$12,600,000",890.33,2022-05-24,Sold,,,,Local,National,,C,1890,0.12,5051,4,CRE,Downtown West,CBD,M5V 1T2,Toronto,Canada
+385 Silver Star Blvd (Part of Multi-Condo Sale),Toronto,ON,Office,696,3 Star,,,2022-05-17,Sold,,,,National,National,Andrew Mo,B,2011,,,3,E,Scarborough,Suburban,M1V 0E3,Toronto,Canada
+385 Silver Star Blvd (Part of Multi-Condo Sale),Toronto,ON,Office,665,3 Star,,,2022-05-17,Sold,,,,National,National,Andrew Mo,B,2011,,,3,E,Scarborough,Suburban,M1V 0E3,Toronto,Canada
+385 Silver Star Blvd (Part of Multi-Condo Sale),Toronto,ON,Office,665,3 Star,,,2022-05-17,Sold,,,,National,National,Andrew Mo,B,2011,,,3,E,Scarborough,Suburban,M1V 0E3,Toronto,Canada
+39 Pleasant Blvd (Part of Multi-Property Sale),Toronto,ON,Office,"16,516",2 Star,,,2022-05-16,Sold,,,,Local,Local,JLL,C,1981,0.17,7405,5,R (d2.0) (x909),Midtown,Urban,M4T 1K2,Toronto,Canada
+86 Lombard St,Toronto,ON,Office,"12,274",3 Star,"$11,425,000",930.83,2022-05-10,Sold,,,,Local,Local,,C,1950,0.21,9148,2,CR,Downtown East,CBD,M5C 1M3,Toronto,Canada
+128 Parliament St (Part of Multi-Property Sale),Toronto,ON,Office,"1,054",2 Star,,,2022-05-10,Sold,,,,Local,Local,,C,1890,0.03,1227,2,CR,Downtown East,CBD,M5A 2Y8,Toronto,Canada
+326 Carlaw Ave,Toronto,ON,Office,830,2 Star,"$1,285,000","1,548.19",2022-05-09,Sold,,,,Local,National,,C,1970,1.99,86684,2,I1,East Toronto,Suburban,M4M 2S1,Toronto,Canada
+170 Evans Ave,Toronto,ON,Office,"20,000",2 Star,"$9,900,000",495.00,2022-05-05,Sold,,,,Local,Local,,C,1980,0.83,36155,3,E 1.0,West Toronto,Suburban,M8Z 5X8,Toronto,Canada
+2100 Finch Ave W,Toronto,ON,Office,"2,900",3 Star,"$1,250,000",431.03,2022-05-04,Sold,,,,National,,,C,2000,2.53,110070,3,EL,West Toronto,Suburban,M3N 1W8,Toronto,Canada
+1100 Bathurst St,Toronto,ON,Office,"5,261",2 Star,"$4,765,000",905.72,2022-05-03,Sold,,,,National,National,Re/Max Hallmark Corbo & Kelos Group Realty,C,1950,0.08,3485,1,CR,West Toronto,Suburban,M5R 3G9,Toronto,Canada
+7 St. Thomas St,Toronto,ON,Office,"1,182",4 Star,"$2,100,000","1,776.65",2022-05-02,Sold,,,,Local,Local,,A,2017,0.38,16553,9,CR,Midtown,Urban,M5S 1K5,Toronto,Canada
+313 Richmond St E,Toronto,ON,Office,"8,800",2 Star,"$5,400,000",613.64,2022-04-29,Sold,,,,Foreign,Local,,C,,1.18,51401,1,CRE,Downtown East,CBD,M5A 4S7,Toronto,Canada
+209 Wicksteed Ave (Part of Multi-Condo Sale),Toronto,ON,Office,"2,000",3 Star,,,2022-04-27,Sold,,,,Local,National,Cliff and Evans Ltd.,B,2015,,,2,E,East Toronto,Suburban,M4G 3E7,Toronto,Canada
+209 Wicksteed Ave (Part of Multi-Condo Sale),Toronto,ON,Office,"1,000",3 Star,,,2022-04-27,Sold,,,,Local,National,Cliff and Evans Ltd.,B,2015,,,2,E,East Toronto,Suburban,M4G 3E7,Toronto,Canada
+121 King St W (Part of Multi-Property Sale),Toronto,ON,Office,"528,286",4 Star,"$369,491,849",699.42,2022-04-26,Sold,,,,National,Local,,A,1984,1.02,44431,26,CR 12.0 (c8.0; r11.7) SS1,Financial Core,CBD,M5H 3T9,Toronto,Canada
+21 Camden St,Toronto,ON,Office,"2,311",2 Star,"$2,108,000",912.16,2022-04-25,Sold,,,,National,,,C,1990,0.15,6612,5,CRE (x76),Downtown West,CBD,M5V 1V2,Toronto,Canada
+271 Spadina Rd (Part of Multi-Property Sale),Toronto,ON,Office,"32,464",3 Star,"$13,985,872",430.81,2022-04-22,Sold,,,,Local,Local,,C,1985,0.24,10454,5,R,Midtown,Urban,M5R 2V3,Toronto,Canada
+951 Wilson Ave,Toronto,ON,Office,"3,135",2 Star,"$1,075,000",342.90,2022-04-14,Sold,,,,Local,Local,,C,2004,2.61,113692,2,MC(80)(H),North Toronto,Suburban,M3K 2A7,Toronto,Canada
+4773 - 4789 Yonge St,Toronto,ON,Office,"1,328",5 Star,,,2022-04-14,Sold,"699,000",,,,,ENCOR Advisors,A,2014,,,11,CR-1,North Toronto,Suburban,M2N 0G3,Toronto,Canada
+345 Sorauren Ave,Toronto,ON,Office,"17,216",3 Star,"$8,250,000",479.21,2022-04-05,Sold,,,,Local,Local,Colliers International,C,1920,0.17,7405,3,EL,West Toronto,Suburban,M6R 2G5,Toronto,Canada
+152-154 Davenport Rd,Toronto,ON,Office,"6,234",3 Star,"$8,500,000","1,363.49",2022-04-01,Sold,"9,000,000",,,Local,,Colliers International,B,2013,0.07,3006,4,CR,Midtown,Urban,M5R 1J1,Toronto,Canada
+189 Queen St E,Toronto,ON,Office,"1,850",2 Star,"$1,200,000",648.65,2022-04-01,Sold,,,,National,National,,C,2003,0.16,6970,3,CR,Downtown East,CBD,M5A 1S2,Toronto,Canada
+175 Bloor Street East (Part of Multi-Property Sale),Toronto,ON,Office,"336,496",4 Star,"$169,000,000",502.23,2022-03-31,Sold,,,,Local,Local,,A,1990,0.80,34848,16,CR,Midtown,Urban,M4W 3T5,Toronto,Canada
+525 University Ave (Part of Multi-Property Sale),Toronto,ON,Office,"202,111",4 Star,"$140,000,000",692.69,2022-03-31,Sold,,,,Local,Local,,A,1989,0.56,24350,14,CR7.8,Downtown North,CBD,M5G 2L3,Toronto,Canada
+110 Yonge St (Part of Multi-Property Sale),Toronto,ON,Office,"199,500",4 Star,"$56,000,000",280.70,2022-03-31,Sold,,,,Local,Local,,B,1967,0.31,13504,19,CR,Financial Core,CBD,M5C 1W2,Toronto,Canada
+15 Kern Rd,Toronto,ON,Office,"14,490",3 Star,"$9,380,000",647.34,2022-03-31,Sold,"9,880,000",,,Local,Local,Bay Street Group Inc.,B,1963,1.07,46609,1,E,East Toronto,Suburban,M3B 1S9,Toronto,Canada
+87 Scollard St,Toronto,ON,Office,"5,154",2 Star,"$8,300,000","1,610.40",2022-03-31,Sold,"8,500,000",4.10,,National,Local,K.P. Gillen & Co. Realty Ltd.,C,1998,0.04,1891,3,CR,Midtown,Urban,M5R 1G2,Toronto,Canada
+7 St. Thomas St,Toronto,ON,Office,"1,132",4 Star,"$1,950,000","1,722.61",2022-03-31,Sold,,,,Local,Local,,A,2017,0.38,16553,9,CR,Midtown,Urban,M5S 1K5,Toronto,Canada
+175 Bloor Street East (Part of Multi-Property Sale),Toronto,ON,Office,"304,211",4 Star,,,2022-03-31,Sold,,,,Local,Local,,A,1990,0.65,28314,18,CR,Midtown,Urban,M4W 3T5,Toronto,Canada
+698 Sheppard Ave W (Part of Portfolio),Toronto,ON,Office,"1,065",2 Star,,,2022-03-31,Sold,,,,National,Local,Remax West,C,1970,0.25,10790,1,RD,North Toronto,Suburban,M3H 2S7,Toronto,Canada
+238 King St E,Toronto,ON,Office,"7,604",2 Star,"$7,897,981","1,038.66",2022-03-29,Sold,,,,Local,Local,,C,1920,0.06,2614,3,CR,Downtown East,CBD,M5A 1K1,Toronto,Canada
+333 Bering Ave,Toronto,ON,Office,"1,871",3 Star,"$990,000",529.13,2022-03-29,Sold,,,,Local,Local,Cushman & Wakefield,B,2012,0.29,12589,3,E 1.0,427 Corridor,Urban,M8Z 3A8,Toronto,Canada
+222 Finch Ave W,Toronto,ON,Office,888,3 Star,"$670,000",754.50,2022-03-25,Sold,"710,400",,,,National,Century 21 Heritage Group,B,2012,0.63,27443,4,CR,North Toronto,Suburban,M2R 1M6,Toronto,Canada
+600 Sherbourne St,Toronto,ON,Office,"1,620",3 Star,"$1,100,000",679.01,2022-03-18,Sold,,,,Local,National,,C,1975,0.56,24394,8,CR,Midtown,Urban,M4X 1L7,Toronto,Canada
+394 Old Orchard Grv,Toronto,ON,Office,"2,625",2 Star,"$1,500,000",571.43,2022-03-15,Sold,,,,Local,Local,"Harvey Kalles Real Estate - HQ, Toronto, Avenue",C,1980,0.06,2614,2,C1,North Toronto,Suburban,M5M 2E9,Toronto,Canada
+2241 Queen St,Toronto,ON,Office,"6,566",2 Star,"$3,513,000",535.03,2022-03-11,Sold,,,,National,,,B,1929,0.11,4731,2,CR,East Toronto,Suburban,M4E 1G1,Toronto,Canada
+7 Belmont St,Toronto,ON,Office,"1,200",2 Star,"$1,625,500","1,354.58",2022-03-09,Sold,,,,National,National,Royal LePage Real Estate Services Ltd,C,1888,0.02,1001,,,Midtown,Urban,M5R 1P9,Toronto,Canada
+222 Finch Ave W,Toronto,ON,Office,"1,351",3 Star,"$660,000",488.53,2022-03-09,Sold,"588,000",,,,National,"HomeLife/Bayview Realty Inc., Brokerage",B,2012,0.63,27443,4,CR,North Toronto,Suburban,M2R 1M6,Toronto,Canada
+119 Dorset Rd,Toronto,ON,Office,"2,792",2 Star,"$1,500,000",537.25,2022-03-08,Sold,,,,Local,Local,,C,1967,0.11,4800,2,RD,East Toronto,Suburban,M1M 2S9,Toronto,Canada
+789 Don Mills Rd,Toronto,ON,Office,"351,900",4 Star,"$91,254,455",259.32,2022-03-03,Sold,,,,Local,Foreign,Cushman & Wakefield,B,1967,5.12,223027,23,No.7625,East Toronto,Suburban,M3C 1T9,Toronto,Canada
+102 Atlantic Ave,Toronto,ON,Office,"20,000",3 Star,"$14,500,000",725.00,2022-03-02,Sold,,,,Local,Local,,B,1935,0.17,7405,4,I3 D7,King/Dufferin,CBD,M6K 1X9,Toronto,Canada
+501 Eglinton Ave E,Toronto,ON,Office,"6,228",2 Star,"$6,500,000","1,043.67",2022-03-01,Sold,,,,Local,,,C,1945,0.09,3920,3,R,Midtown,Urban,M4P 1N4,Toronto,Canada
+50 St Clair Ave E (Part of Portfolio),Toronto,ON,Office,"9,292",2 Star,"$1,723,310",185.46,2022-03-01,Sold,,,,Local,,,C,1987,0.06,2736,4,CR,Midtown,Urban,M4T 1M9,Toronto,Canada
+27 Stayner Ave,Toronto,ON,Office,"1,982",2 Star,"$1,600,000",807.27,2022-03-01,Sold,,,,National,National,,C,1949,0.10,4356,1,CR,West Toronto,Suburban,M6B 1N3,Toronto,Canada
+603 Parliament St (Part of Multi-Property Sale),Toronto,ON,Office,"5,598",2 Star,"$1,309,044",233.84,2022-03-01,Sold,,,,National,,,C,1988,0.05,2187,3,CR,Downtown North,CBD,M4X 1P9,Toronto,Canada
+603.5 Parliament St (Part of Multi-Property Sale),Toronto,ON,Office,"3,816",3 Star,"$1,040,956",272.79,2022-03-01,Sold,,,,National,,,C,1988,0.05,2309,3,CR2.0,Downtown North,CBD,M4X 1P9,Toronto,Canada
+477 Richmond St W (Part of Multi-Condo Sale),Toronto,ON,Office,"1,500",4 Star,,,2022-03-01,Sold,,,,Local,Local,,B,1993,,,10,CRE2.0 (x76),Downtown West,CBD,M5V 3E7,Toronto,Canada
+477 Richmond St W (Part of Multi-Condo Sale),Toronto,ON,Office,"1,500",4 Star,,,2022-03-01,Sold,,,,Local,Local,,B,1993,,,10,CRE2.0 (x76),Downtown West,CBD,M5V 3E7,Toronto,Canada
+7 St. Thomas St,Toronto,ON,Office,"1,171",4 Star,"$1,690,000","1,443.21",2022-02-28,Sold,,,,Local,,,A,2017,0.38,16553,9,CR,Midtown,Urban,M5S 1K5,Toronto,Canada
+40 Station St S (Part of Portfolio),Toronto,ON,Office,"3,677",2 Star,"$4,484,412","1,219.58",2022-02-16,Sold,,,,Local,,JLL,C,1960,0.35,15301,1,CR,West Toronto,Suburban,M9N 2B3,Toronto,Canada
+15 Lola Rd,Toronto,ON,Office,"1,466",2 Star,"$3,000,000","2,046.38",2022-02-15,Sold,,,,Local,,,C,1924,0.08,3473,1,CR,Midtown,Urban,M5P 1E5,Toronto,Canada
+290 Shuter St,Toronto,ON,Office,"8,860",2 Star,"$4,700,000",530.47,2022-02-09,Sold,,,,Local,National,,C,1913,0.07,3049,3,CR,Downtown East,CBD,M5A 1W7,Toronto,Canada
+2 Matilda St,Toronto,ON,Office,"16,618",2 Star,"$7,100,000",427.25,2022-02-03,Sold,,,,Local,Local,Cubecom Commercial Realty Inc.,B,1889,0.18,7841,3,I2D3,East Toronto,Suburban,M4M 1L9,Toronto,Canada
+701 Coxwell Ave,Toronto,ON,Office,"1,400",2 Star,"$950,000",678.57,2022-02-02,Sold,"1,100,000",,,National,,Avison Young,C,1922,0.05,2178,2,R,East Toronto,Suburban,M4C 3C1,Toronto,Canada
+200 Bay St (Part of Portfolio),Toronto,ON,Office,"1,633,333",4 Star,"$815,621,018",499.36,2022-02-01,Sold,,,,Foreign,Local,RBC Capital Markets,A,1976,3.15,137214,40,CR 12.0 (c8.0; r11.7) SS1,Financial Core,CBD,M5J 2J2,Toronto,Canada
+200 Bay St (Part of Portfolio),Toronto,ON,Office,"438,500",4 Star,"$277,875,820",633.70,2022-02-01,Sold,,,,Foreign,Local,RBC Capital Markets,A,1976,3.15,137214,25,CR 12.0 (c8.0; r11.7) SS1,Financial Core,CBD,M5J 2J5,Toronto,Canada
+272 Lawrence Av W,Toronto,ON,Office,"16,313",2 Star,"$20,500,000","1,256.67",2022-02-01,Sold,,,,Local,National,,C,1974,0.44,19166,3,RM,North Toronto,Suburban,M5M 4M1,Toronto,Canada
+12-14 Bruce Park Ave,Toronto,ON,Office,"6,939",2 Star,"$5,950,000",857.47,2022-02-01,Sold,,,,Local,Local,,C,1985,0.17,7200,3,CR,Midtown,Urban,M4P 2S3,Toronto,Canada
+109-117 George St,Toronto,ON,Office,"50,000",3 Star,"$9,125,000",365.00,2022-01-31,Sold,,,,Local,Local,,C,2010,0.48,20909,3,CR,Downtown East,CBD,M5A 2N4,Toronto,Canada
+94 Isabella St,Toronto,ON,Office,"5,500",2 Star,"$7,740,000","1,407.27",2022-01-31,Sold,,,,Local,Local,,C,1880,0.15,6600,2,R,Midtown,Urban,M4Y 1N4,Toronto,Canada
+260 King St E (Part of Portfolio),Toronto,ON,Office,"141,004",3 Star,"$162,781,287","1,154.44",2022-01-24,Sold,,,,Local,Local,,B,1935,0.42,18295,5,CRE (x41),Downtown East,CBD,M5A 1L5,Toronto,Canada
+427 Adelaide St (Part of Portfolio),Toronto,ON,Office,"19,213",2 Star,"$19,976,838","1,039.76",2022-01-24,Sold,,,,Local,Local,,C,,0.15,6343,4,CRE,Downtown East,CBD,M5A 1N5,Toronto,Canada
+1275 Finch Ave W (Part of Multi-Condo Sale),Toronto,ON,Office,,4 Star,,,2022-01-20,Sold,,,,Local,Local,Avison Young,B,2018,,,8,EL,North Toronto,Suburban,M3J 2B1,Toronto,Canada
+1275 Finch Ave W (Part of Multi-Condo Sale),Toronto,ON,Office,794,4 Star,,,2022-01-20,Sold,,,,Local,Local,Avison Young,B,2018,,,8,EL,North Toronto,Suburban,M3J 2B1,Toronto,Canada
+1275 Finch Ave W (Part of Multi-Condo Sale),Toronto,ON,Office,792,4 Star,,,2022-01-20,Sold,,,,Local,Local,Avison Young,B,2018,,,8,EL,North Toronto,Suburban,M3J 2B1,Toronto,Canada
+1275 Finch Ave W (Part of Multi-Condo Sale),Toronto,ON,Office,801,4 Star,,,2022-01-20,Sold,,,,Local,Local,Avison Young,B,2018,,,8,EL,North Toronto,Suburban,M3J 2B1,Toronto,Canada
+1275 Finch Ave W (Part of Multi-Condo Sale),Toronto,ON,Office,"2,281",4 Star,,,2022-01-20,Sold,,,,Local,Local,Avison Young,B,2018,,,8,EL,North Toronto,Suburban,M3J 2B1,Toronto,Canada
+92 Isabella St,Toronto,ON,Office,"6,541",2 Star,"$5,000,000",764.41,2022-01-18,Sold,,,,Local,National,,B,1889,0.07,3049,4,CR,Midtown,Urban,M4Y 1N8,Toronto,Canada
+1033 Bay St,Toronto,ON,Office,"1,126",3 Star,"$1,062,500",943.61,2022-01-14,Sold,"1,220,000",,,Local,National,,C,1987,0.81,35284,3,CR,Midtown,Urban,M5S 3A5,Toronto,Canada
+20 Bamburgh Cir,Toronto,ON,Office,"9,750",2 Star,"$5,400,000",553.85,2022-01-13,Sold,"5,488,000",,,Local,Local,"Lennard Commercial Realty, Brokerage",C,1990,0.41,17860,2,CR,Scarborough,Suburban,M1W 3G4,Toronto,Canada
+655 Sheppard Ave W,Toronto,ON,Office,"7,610",2 Star,"$2,375,000",312.09,2022-01-12,Sold,"2,499,000",,,Local,Local,"RE/MAX Realtron Realty, Inc.",C,1960,0.18,7725,2,Rd,North Toronto,Suburban,M3H 2S4,Toronto,Canada
+220 Duncan Mill Rd,Toronto,ON,Office,"2,071",3 Star,"$1,150,000",555.29,2022-01-04,Sold,,,,National,Local,,B,1981,2.54,110642,6,CR,East Toronto,Suburban,M3B 3J5,Toronto,Canada
+220 Duncan Mill Rd,Toronto,ON,Office,"1,277",3 Star,,,2021-12-31,Sold,"495,000",,,,,Avison Young,B,1981,2.54,110642,6,CR,East Toronto,Suburban,M3B 3J5,Toronto,Canada
+333 Bering Ave,Toronto,ON,Office,"3,773",3 Star,"$1,850,000",490.33,2021-12-20,Sold,,,,Local,Local,Cushman & Wakefield,B,2012,0.29,12589,3,E 1.0,427 Corridor,Urban,M8Z 3A8,Toronto,Canada
+4950 Yonge St,Toronto,ON,Office,"445,000",4 Star,"$118,000,000",265.17,2021-12-03,Sold,,,,Local,Local,Colliers International,B,1986,1.56,67954,24,CR,North Toronto,Suburban,M2N 6K1,Toronto,Canada
+14 Elm St (Part of Portfolio),Toronto,ON,Office,"20,084",3 Star,"$11,669,557",581.04,2021-12-02,Sold,,,,Local,Local,CBRE,C,1900,0.12,5301,4,CR,Downtown North,CBD,M5G 1G7,Toronto,Canada
+385 Silver Star Blvd (Part of Multi-Condo Sale),Toronto,ON,Office,604,3 Star,,,2021-12-02,Sold,,,,National,National,,B,2011,,,3,E,Scarborough,Suburban,M1V 0E3,Toronto,Canada
+385 Silver Star Blvd (Part of Multi-Condo Sale),Toronto,ON,Office,652,3 Star,,,2021-12-02,Sold,,,,National,National,,B,2011,,,3,E,Scarborough,Suburban,M1V 0E3,Toronto,Canada
+385 Silver Star Blvd (Part of Multi-Condo Sale),Toronto,ON,Office,652,3 Star,,,2021-12-02,Sold,,,,National,National,,B,2011,,,3,E,Scarborough,Suburban,M1V 0E3,Toronto,Canada
+385 Silver Star Blvd (Part of Multi-Condo Sale),Toronto,ON,Office,485,3 Star,,,2021-12-02,Sold,,,,National,National,,B,2011,,,3,E,Scarborough,Suburban,M1V 0E3,Toronto,Canada
+290 Merton St (Part of Multi-Property Sale),Toronto,ON,Office,"5,207",2 Star,"$3,245,172",623.23,2021-12-01,Sold,,,,Local,Local,,C,1954,0.22,9500,3,CR,Midtown,Urban,M4S 1B1,Toronto,Canada
+276 Merton St (Part of Multi-Property Sale),Toronto,ON,Office,"3,138",2 Star,"$2,004,828",638.89,2021-12-01,Sold,,,,Local,Local,,C,1978,0.15,6650,2,CR,Midtown,Urban,M4S 1B1,Toronto,Canada
+169 Willowdale Ave,Toronto,ON,Office,"8,906",2 Star,"$6,300,000",707.39,2021-11-30,Sold,,,,Local,Local,,C,2009,0.17,7200,3,CR,North Toronto,Suburban,M2N 4Y7,Toronto,Canada
+99 Atlantic Ave (Part of Portfolio),Toronto,ON,Office,"140,500",4 Star,"$129,189,802","1,021.67",2021-11-16,Sold,,4.00,,Foreign,National,RBC Capital Markets,A,2020,1.52,66211,8,IC D3 N1.5,King/Dufferin,CBD,M6K 3J8,Toronto,Canada
+40 Hanna Ave (Part of Portfolio),Toronto,ON,Office,"104,734",2 Star,"$89,953,206",954.30,2021-11-16,Sold,,4.00,,Foreign,National,RBC Capital Markets,B,1900,0.40,17455,5,IC D3 N1.5,King/Dufferin,CBD,M6K 1G1,Toronto,Canada
+1224 Lawrence Ave,Toronto,ON,Office,"22,500",2 Star,"$6,200,000",275.56,2021-11-15,Sold,"6,495,000",,,Local,Local,CBRE,C,1969,0.95,41382,2,M2,North Toronto,Suburban,M5S 2C3,Toronto,Canada
+155 Rochman Blvd,Toronto,ON,Office,"1,634",2 Star,"$1,250,000",764.99,2021-11-10,Sold,,,,Local,National,,C,1975,0.15,6626,1,RD,Scarborough,Suburban,M1H 1S7,Toronto,Canada
+1590 Yonge St,Toronto,ON,Office,"3,982",2 Star,"$4,058,889","1,019.31",2021-11-09,Sold,,,,Local,Local,,C,1925,0.04,1742,3,R (d1.0) (x830),Midtown,Urban,M4T 2A1,Toronto,Canada
+487 Lawrence Ave W,Toronto,ON,Office,901,1 Star,"$1,880,000","2,086.57",2021-11-05,Sold,,,,National,Local,,C,1947,0.10,4333,1,RM,Midtown,Urban,M5N 2V3,Toronto,Canada
+1100 Sheppard Ave E (Part of Multi-Condo Sale),Toronto,ON,Office,746,3 Star,"$1,375,000","1,843.16",2021-11-05,Sold,,,,Local,Local,,B,2000,,,4,CR,East Toronto,Suburban,M2K 2W1,Toronto,Canada
+1100 Sheppard Ave E (Part of Multi-Condo Sale),Toronto,ON,Office,769,3 Star,"$1,375,000","1,788.04",2021-11-05,Sold,,,,Local,Local,,B,2000,,,4,CR,East Toronto,Suburban,M2K 2W1,Toronto,Canada
+1100 Sheppard Ave E (Part of Multi-Condo Sale),Toronto,ON,Office,"1,123",3 Star,"$1,375,000","1,224.40",2021-11-05,Sold,,,,Local,Local,,B,2000,,,4,CR,East Toronto,Suburban,M2K 2W1,Toronto,Canada
+1100 Sheppard Ave E (Part of Multi-Condo Sale),Toronto,ON,Office,746,3 Star,,,2021-11-05,Sold,,,,Local,Local,,B,2000,,,4,CR,East Toronto,Suburban,M2K 2W1,Toronto,Canada
+1100 Sheppard Ave E (Part of Multi-Condo Sale),Toronto,ON,Office,769,3 Star,,,2021-11-05,Sold,,,,Local,Local,,B,2000,,,4,CR,East Toronto,Suburban,M2K 2W1,Toronto,Canada
+1100 Sheppard Ave E (Part of Multi-Condo Sale),Toronto,ON,Office,"1,123",3 Star,,,2021-11-05,Sold,,,,Local,Local,,B,2000,,,4,CR,East Toronto,Suburban,M2K 2W1,Toronto,Canada
+139 Mulock Ave,Toronto,ON,Office,"20,000",2 Star,"$10,600,000",530.00,2021-10-29,Sold,,,,National,Local,,C,1968,0.33,14201,2,RA (x471),West Toronto,Suburban,M6N 1G9,Toronto,Canada
+541 Eglinton Ave E (Part of Multi-Property Sale),Toronto,ON,Office,722,2 Star,"$2,954,375","4,091.93",2021-10-27,Sold,,,,Local,Local,,C,1943,0.06,2418,1,R,Midtown,Urban,M4P 1N7,Toronto,Canada
+995 Dufferin St,Toronto,ON,Office,"2,617",2 Star,"$1,950,000",745.13,2021-10-27,Sold,,,,Local,National,,C,1950,0.10,4173,3,CR,West Toronto,Suburban,M6H 4B2,Toronto,Canada
+543 Eglinton Ave E (Part of Multi-Property Sale),Toronto,ON,Office,824,2 Star,,,2021-10-27,Sold,,,,Local,Local,,C,1943,0.06,2614,1,R,Midtown,Urban,M4P 1N7,Toronto,Canada
+14 Elm St,Toronto,ON,Office,"20,084",3 Star,"$2,500,000",124.48,2021-10-22,Sold,,,,Local,Local,,C,1900,0.12,5301,4,CR,Downtown North,CBD,M5G 1G7,Toronto,Canada
+1 Eva Rd,Toronto,ON,Office,"91,068",3 Star,"$34,000,000",373.35,2021-10-18,Sold,,2.30,,National,Local,,B,1978,2.30,100188,4,M1,427 Corridor,Urban,M9C 4Z5,Toronto,Canada
+123 Wynford Dr,Toronto,ON,Office,"31,335",2 Star,"$33,000,000","1,053.14",2021-10-18,Sold,,,,Local,Local,,C,1963,3.00,130680,3,EO,East Toronto,Suburban,M3C 1K1,Toronto,Canada
+3447 Kennedy Rd,Toronto,ON,Office,"134,244",3 Star,"$30,000,000",223.47,2021-10-18,Sold,,,,Local,Local,,B,1984,3.67,159865,2,E,Scarborough,Suburban,M1V 3S1,Toronto,Canada
+4773 - 4789 Yonge St,Toronto,ON,Office,798,5 Star,"$510,000",639.10,2021-10-18,Sold,"500,000",,,,Local,Royal LePage New Concept Brokerage,A,2014,,,11,CR-1,North Toronto,Suburban,M2N 0G3,Toronto,Canada
+251 Attwell Dr (Part of Portfolio),Toronto,ON,Office,"101,390",2 Star,"$20,774,481",204.90,2021-10-14,Sold,,5.00,,Local,Local,Colliers,B,1968,3.05,132858,2,E1,Airport Corp Centre/Airport,Suburban,M9W 5B2,Toronto,Canada
+34 Madison Ave,Toronto,ON,Office,"8,048",3 Star,"$5,850,000",726.89,2021-10-13,Sold,"6,100,000",,,Local,Local,Colliers International,C,1895,0.15,6351,3,"1.5 (C1.5; R1.0) 
+SS2 (x",Midtown,Urban,M5R 2S2,Toronto,Canada
+214 Merton St (Part of Multi-Property Sale),Toronto,ON,Office,"14,190",3 Star,,,2021-10-13,Sold,,,,Local,Local,,C,1956,0.17,7405,3,CR,Midtown,Urban,M4S 2H8,Toronto,Canada
+2970 Lake Shore Blvd W (2 Properties),Toronto,ON,,"41,340",2 Star,"$14,500,000",350.75,,Under Contract,"14,500,000",,,,Local,Royal LePage Real Estate Services Ltd,C,,0.38,16553,,CR,West Toronto,Suburban,M8V 1J6,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"6,322",3 Star,"$3,635,150",575.00,,Under Contract,"3,635,150",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"5,223",3 Star,"$3,107,685",595.00,,Under Contract,"3,107,685",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"3,436",3 Star,"$1,975,700",575.00,,Under Contract,"1,975,700",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"2,898",3 Star,"$1,724,310",595.00,,Under Contract,"1,724,310",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+1033 Bay St,Toronto,ON,Office,"1,514",3 Star,"$1,600,000","1,056.80",,Under Contract,"1,600,000",,,,,Keller Williams Legacies Realty Inc.,C,1987,,,3,CR,Midtown,Urban,M5S 3A5,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"2,541",3 Star,"$1,511,895",595.00,,Under Contract,"1,511,895",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"2,459",3 Star,"$1,463,105",595.00,,Under Contract,"1,463,105",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"2,402",3 Star,"$1,381,150",575.00,,Under Contract,"1,381,150",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+85-87 Harbord St,Toronto,ON,Office,"1,545",2 Star,"$1,199,000",776.05,,Under Contract,"1,199,000",,,,,BERKSHIRE HATHAWAY HOMESERVICES TORONTO REALTY,C,1999,,,4,CR,Midtown,Urban,M5S 1G6,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,021",3 Star,"$1,174,530","1,150.37",,Under Contract,"1,174,530",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,406",3 Star,"$1,174,530",835.37,,Under Contract,"1,174,530",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,158",3 Star,"$1,174,530","1,014.28",,Under Contract,"1,174,530",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,526",3 Star,"$1,174,530",769.68,,Under Contract,"1,174,530",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,239",3 Star,"$1,174,530",947.97,,Under Contract,"1,174,530",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,930,3 Star,"$1,174,530","1,262.94",,Under Contract,"1,174,530",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,537",3 Star,"$1,174,530",764.17,,Under Contract,"1,174,530",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,287",3 Star,"$1,174,530",912.61,,Under Contract,"1,174,530",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,095",3 Star,"$1,174,530","1,072.63",,Under Contract,"1,174,530",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,974",3 Star,"$1,174,530",595.00,,Under Contract,"1,174,530",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+130 Queens Quay E,Toronto,ON,Office,"1,037",4 Star,"$1,150,000","1,108.97",,Under Contract,"1,150,000",,,,,Royal LePage Commercial,A,2018,,,13,CR 4.0 (c4.0;r2.5) ss1,Downtown East,CBD,M5A 0P6,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,841",3 Star,"$1,095,395",595.00,,Under Contract,"1,095,395",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,849",3 Star,"$1,063,175",575.00,,Under Contract,"1,063,175",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+52 Scarsdale Rd,Toronto,ON,Office,"1,513",3 Star,"$869,975",575.00,,Under Contract,"869,975",,,,,Colliers,A,2023,,,2,,East Toronto,Suburban,M3B 2R7,Toronto,Canada
+4773 - 4789 Yonge St,Toronto,ON,Office,"1,165",5 Star,"$850,000",729.61,,Under Contract,"850,000",,,,,Golden House Realty Inc.,A,2014,,,11,CR-1,North Toronto,Suburban,M2N 0G3,Toronto,Canada
+1275 Finch Ave W,Toronto,ON,Office,974,4 Star,"$477,000",489.73,,Under Contract,"477,000",,,,,Lee & Associates Commercial Real Estate Inc.,B,2018,,,8,EL,North Toronto,Suburban,M3J 2B1,Toronto,Canada
