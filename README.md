@@ -7,13 +7,7 @@
 Our team has chosen to work on a financial analysis model, focusing on the 
 commercial real estate market, particularly Office Buildings. Our main areas 
 of focus will include the golden horseshoe area in Ontario. The region and 
-cities that we will be comparing are as follows:
-- Toronto 
-- Mississauga 
-- Oakville 
-- Hamilton 
-- Vaughn 
-- Brampton 
+cities that we will be comparing is Toronto, ON as it is a strong real estate candidate. 
 
 Our analysis will generate historical and current data comparison, so that we 
 can have a much better understanding and to identify the growth trends 
