@@ -42,5 +42,5 @@ Identify the down turns and up turn in each market and specify the driving force
 What are the property's area’s major economic drivers? Who are the major tenants or corporations? What is the average rate of return on investment (and is that trending upward or downward)?
 For our project, we will obtain some of our data regarding the commercial real estate market from COSTAR.com. We will obtain our historical annual interest rate from 2012-2022 via bank of Canada.
 As per the data regarding stock on REITS, we will generate a 10-year data stock history for particular REITS from reitreport.ca.
-![image](https://user-images.githubusercontent.com/110704328/195997090-072cd290-b842-4273-87d8-a8558b20c780.png)
+
 
